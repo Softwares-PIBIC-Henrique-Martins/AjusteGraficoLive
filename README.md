@@ -4,4 +4,4 @@ Trata-se de um software capaz de plotar dados digitados pelo usuário em funçã
 
 O arquivo dadoslive.txt se trata de um arquivo txt vazio.
 
-Link do vídoe no qual comento sobre o código e a aplicabilidade do software: https://www.youtube.com/watch?v=BeLAWsh9zJE
+Link do vídeo no qual comento sobre o código e a aplicabilidade do software: https://www.youtube.com/watch?v=BeLAWsh9zJE
